@@ -70,7 +70,12 @@ This repository contains the implementation of a Distributed Load Testing System
    ```bash
    python load-client.py
    ```
+## Contributors
+- Sakshi S
+- Tarun Sairaj Vepamaninti
+- Swayam Chhaba
 
+  
 ## Conclusion
 
 Distributed Load Testing System with Kafka. Orchestrator and Driver nodes, scalable tests. Code files (`load-orchestrator.py`, `load-driver.py`, `load-client.py`, `target-server.py`) and README for easy use.
